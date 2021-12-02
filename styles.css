@@ -1,0 +1,58 @@
+body{
+    background-color: papayawhip;
+}
+#display{
+   margin-left: 100px;
+    align-items: center;
+    padding: 0px;
+  
+}
+.alert{
+    margin: 10px 100px;
+}
+h2{
+    margin: 10px 10%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: palevioletred;
+}
+.card-title, .card-text, .watch{
+    text-align: center;
+}
+.card-text{
+    font-size: small;
+}
+#card{
+  
+  width: 14rem;
+  height: 25rem;
+  border: solid 1px;
+  align-items: center;
+  margin: 5px 10px;
+  padding: 0px;
+  border-radius: 20px;
+}
+.card-img-top{
+    margin: 5px; 
+    height: 10rem;
+    width: 10rem; 
+}
+.cord-body{  
+    text-align: center;  
+    align-items: center;  
+}
+#watch{
+    text-align: center;
+    padding: 0px 10px;
+    margin-left: 30%;
+
+}
+#like{
+    margin-top: 10px;
+    background-color: black;
+    padding: 0% 30.7%;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+#like-btn{
+    padding: 0px 10px;
+}
